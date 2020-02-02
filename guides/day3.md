@@ -81,6 +81,7 @@ Link this back to the serializer class we made previously:
     serializer_class = PersonalNoteSerializer
 ```
 
+
 Next, add which records to search for.  We could use filters here, but for now,
 grab all of them:
 
